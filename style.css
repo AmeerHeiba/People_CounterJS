@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(253, 212, 161);
+}
+#counter_cont
+{
+    background-color: blueviolet;
+    margin-top: 25%;
+    border-radius: 15px;
+}
+
+#header_div
+{
+    background-color: rgb(44, 18, 68);
+    border-radius: 5px;
+
+}
+
+#h1_main
+{
+    color: bisque;
+}
